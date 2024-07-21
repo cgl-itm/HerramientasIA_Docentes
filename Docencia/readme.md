@@ -5,7 +5,7 @@
     '''
     Dime 5 estrategias de enseñanza para un asignatura
     '''
-    [Respuesta](https://chatgpt.com/share/a7638cd4-9258-47db-a45c-6acdbfb9a454){:target="_blank" rel="noopener"}
+    [Respuesta](https://chatgpt.com/share/a7638cd4-9258-47db-a45c-6acdbfb9a454)
   * 1 Shot
   * Few shot
  
