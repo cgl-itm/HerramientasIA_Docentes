@@ -6,6 +6,6 @@
 ## Recursos en linea
 * [ChatGPT - Teaching with AI](https://openai.com/index/teaching-with-ai/)
 * [ClassPoint - 11 of the Best AI Tools for Teachers](https://www.youtube.com/watch?v=KG4_CYbVpTo)
-
+* [Copilot Resources for Education](https://adoption.microsoft.com/es-es/copilot-resources-for-education/)
 # Cursos en Linea
 * [Google - AI for Educators](https://grow.google/ai-for-educators/)
