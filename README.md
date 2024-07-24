@@ -15,14 +15,14 @@
 ## Enlaces
 * [TextCortex - Prompt Engineering guide](https://textcortex.com/es/post/prompt-engineering-guide)
 
-## Text-to-text
+# Text-to-text
 * [ChatGPT]()
 * [Gemini]()
 * [Claude]()
 * [Copilot]()
 * [LLama]()
   
-## Text-to-Image
+# Text-to-Image
 * [Midjourney]()
 * [Leonard.ai]()
 * [Ideogram](https://docs.ideogram.ai/using-ideogram/getting-started/the-basics-step-by-step)
