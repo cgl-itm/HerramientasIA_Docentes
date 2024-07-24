@@ -1,7 +1,14 @@
- # Doncencia con IA
- ## Creacion de plane de curso
- 
+# Doncencia con IA
+## Generacion de lecciones de tema
+## Generacion de examenes y quizzes
+## Generacion de contenido de una asignatura
+## Generacion de resultados de aprendizaje
 
+## Aprendizaje Diferenciado
+* Self-directed learning
+* Mastery-based progression
+## Autograding
+* GradeScope
 
 ## Recursos en linea
 * [ChatGPT - Teaching with AI](https://openai.com/index/teaching-with-ai/)
