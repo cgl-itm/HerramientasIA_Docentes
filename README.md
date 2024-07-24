@@ -13,6 +13,7 @@
   * Few shot
 
 ## Enlaces
+* [Xataka - 8 prompts para terminar tareas y ahorrar horas](https://www.xataka.com/robotica-e-ia/ocho-prompts-chatgpt-para-terminar-tareas-segundos-ahorrar-horas-trabajo)
 * [TextCortex - Prompt Engineering guide](https://textcortex.com/es/post/prompt-engineering-guide)
 
 # Text-to-text
