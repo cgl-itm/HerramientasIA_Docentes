@@ -1,7 +1,7 @@
 # HerramientasIA_Docentes
-## Prompt Engineering
+# Prompt Engineering
 [Guia de OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
-### Técnicas de Prompting
+## Técnicas de Prompting
 * Establecer un rol
 * Aportar contexto
   * 0 Shot: Cuando solicitamos al modelo una respuesta sin darle un contexto apropiado. Puede conducir a respuestas de muy mala calidad. Por ejemplo:
@@ -12,6 +12,8 @@
   * 1 Shot
   * Few shot
 
+## Enlaces
+* [TextCortex - Prompt Engineering guide](https://textcortex.com/es/post/prompt-engineering-guide)
 
 ## Text-to-text
 * [ChatGPT]()
