@@ -9,7 +9,8 @@ Una comparativa de las IAs Generativas se puede encontrar en [artificialanalysis
 
 
 # Prompt Engineering
-[Guia de OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
+Define la forma correcta de realizar consultas a las IA Generativas con el fin de obtener resultados de buena calidad. Se recomienda como primer documento de lectura la [Guia de OpenAI](https://platform.openai.com/docs/guides/prompt-engineering).
+
 ## Técnicas de Prompting
 * Aportar contexto: El contexto es muy importante, ya que permite obtener respuestas más especificas. <br>
 
@@ -28,6 +29,7 @@ Actúa como un experto en diseño de prompts para chatgpt. Me puedes dar un ejem
 ````  
 
 ## Enlaces
+* [Ejemplos de Prompts para ChatGPT](https://ua-data7.github.io/introllms/chatgpt_prompts/)
 * [Xataka - 8 prompts para terminar tareas y ahorrar horas](https://www.xataka.com/robotica-e-ia/ocho-prompts-chatgpt-para-terminar-tareas-segundos-ahorrar-horas-trabajo)
 * [TextCortex - Prompt Engineering guide](https://textcortex.com/es/post/prompt-engineering-guide)
 
