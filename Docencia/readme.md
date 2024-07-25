@@ -30,7 +30,7 @@ por ejemplo: Nombre de la asignatura, contenidos, etc. La tabla de saberes se de
 ```
 La IAG te entregara el prompt que puedes usar para generar la tabla de saberes, tambien puede que te muestre un ejemplo de apliación. Ahora, rellena la información de la plantilla del prompt generada a partir de los datos de una asignatura que estes dictando.
 
-## Generacion de resultados de aprendizaje
+## 4. Generacion de resultados de aprendizaje
 La idea es generar los resultados de aprendizaje sobre el mismo contexto donde se construyeron los contenidos y las tablas de saberes del curso. Un prompt sencillo para generar los resultados de aprendizaje usando una IAG puede ser el siguiente:
 
 ```
@@ -42,20 +42,13 @@ definida sobre las siguientes categorías: Excelente (Nota 4.0-5.0), Bueno (Nota
 
 Para generar los resultados de aprendizaje sobre otra asignatura diferente, se debe incluir una oración donde se describan los contenidos y los objetivos de la asignatura. Ensayar generando los RA de otra asignatura para la cual la IAG no haya construido un contexto previo.
 
-## Generacion de lecciones de tema
+## 5. Generacion de lecciones de tema
 
 
-## Generacion de examenes y quizzes
+## 6. Generacion de examenes y quizzes
 
 
-## Aprendizaje Diferenciado
-* Self-directed learning
-* Mastery-based progression
-
-## Autograding
-* GradeScope
-
-## Consulta información a un PDF
+## 7. Consulta información de un PDF
 
 
 ## Generación de aplicaciones
