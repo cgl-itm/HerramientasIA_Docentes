@@ -70,10 +70,10 @@ Aplicaciones como [ChatPDF](https://www.chatpdf.com/) permiten subir un archivo 
 ## 7. Generación de aplicaciones
 Un uso muy particular para Claude es la gneneración de código en Python para hacer GUIs, o para generar codigo HTML, CSS y JS para paginas web. 
 
-### Ejemplos en linea de generación de Apps
+### Ejemplos en línea de generación de Apps
 * [8 Apps con Claude 3.5 Sonnet](https://alejavirivera.com/8-apps-con-claude-3-5-sonnet/): Ejemplos de generacón de paginas web a partir de la IAG Claude 3.5 Sonnet (al parece el ejemplo del panel interactivo no funciona).
 
-# Recursos en linea
+# Recursos en línea
 * [ChatGPT - Teaching with AI](https://openai.com/index/teaching-with-ai/)
 * [ClassPoint - 11 of the Best AI Tools for Teachers](https://www.youtube.com/watch?v=KG4_CYbVpTo)
 * [Copilot Resources for Education](https://adoption.microsoft.com/es-es/copilot-resources-for-education/)
