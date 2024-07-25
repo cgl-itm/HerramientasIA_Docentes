@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/cgl-itm/HerramientasIA_Docentes/main/assets/IA_generativa.jpg" alt="drawing" style="width:400px;"/>
+<img src="https://raw.githubusercontent.com/cgl-itm/HerramientasIA_Docentes/main/assets/IA_generativa.jpg" alt="drawing" style="width:400px;"/> <\br>
+
 # HerramientasIA_Docentes
 
 # IAs Generativas mas conocidas
