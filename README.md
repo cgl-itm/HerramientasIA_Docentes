@@ -1,3 +1,5 @@
+![IA Generariva](https://raw.githubusercontent.com/cgl-itm/HerramientasIA_Docentes/main/assets/IA_generativa.jpg)
+
 # HerramientasIA_Docentes
 
 # IAs Generativas mas conocidas
