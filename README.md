@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/cgl-itm/HerramientasIA_Docentes/main/assets/IA_generativa.jpg" alt="drawing" style="width:400px;"/> <br>
 
-# HerramientasIA_Docentes
+# Herramientas de IA para Docentes Universitarios
+En este repositorio puede encontrar informacion de aplicaciones web que pueden ayudar en la productividad del quehacer docente.
 
 # IAs Generativas mas conocidas
 Una comparativa de las IAs Generativas se puede encontrar en [artificialanalysis](https://artificialanalysis.ai/models/claude-35-sonnet).
