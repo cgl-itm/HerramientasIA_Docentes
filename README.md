@@ -5,11 +5,12 @@
 * Establecer un rol
 * Aportar contexto: El contexto es muy importante, ya que permite obtener respuestas más especificas. <br>
 
-| Tipo de Prompt | Prompt |
-|----------------|--------|
-| Zero Shot      | Describe las preferencias de vestimenta de una persona. |
-| One Shot       | Describe las preferencias de vestimenta de una persona que prefiere ropa casual y cómoda. |
-| Multiple Shot  | Describe las preferencias de vestimenta de una persona que prefiere ropa casual y cómoda. Incluye detalles sobre colores favoritos, tipo de prendas que usa en diferentes ocasiones (por ejemplo, para trabajar, salir con amigos, o hacer ejercicio), y cualquier accesorio que le guste llevar. |
+| Tipo de Prompt   | Ejemplo de Prompt                                                                                                                                           |
+|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Zero Shot        | Describe las preferencias de vestimenta de una persona.                                                                                                     |
+| One Shot         | Describe las preferencias de vestimenta de una persona que prefiere ropa casual. Aquí tienes un ejemplo: "Juan prefiere usar jeans y camisetas cómodas".   |
+| Multiple Shot    | Describe las preferencias de vestimenta de una persona. Aquí tienes algunos ejemplos: "Juan prefiere usar jeans y camisetas cómodas. Ana prefiere vestidos elegantes y zapatos de tacón. Carlos prefiere ropa deportiva como sudaderas y pantalones de chándal."                                                 |
+En el prompt "Zero Shot", simplemente se pide una descripción sin proporcionar ningún ejemplo previo. En el "One Shot", se da un ejemplo para guiar la respuesta. En el "Multiple Shot", se proporcionan varios ejemplos para ofrecer una guía más completa y específica.
 
 
 ## Enlaces
