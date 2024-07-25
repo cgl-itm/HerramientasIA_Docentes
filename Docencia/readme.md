@@ -1,5 +1,5 @@
-# Doncencia con IA
-En esta seccion encontrara material espeficio para la labor docente.
+# Doncencia con IAG
+En esta seccion encontrara material especifico para el uso de la Inteligencia Artificial Generativa en actividades de Educación superior.
 
 
 ## 1. Consultar a la IAG como te puede ayudar
@@ -10,7 +10,7 @@ Soy docente de las [Asignaturas] en el programa de [Programa].
 Que tareas puedes realizar para ayudarme en mi labor docente?
 ```
 ## 2. Generacion de contenido de una asignatura
-La IAG nos puede ayudar a construir el plan de contenidos para una asignatura. Ensaye con el siguiente prompt para alguna de sus asignaturas:
+La IAGs  nos puede ayudar a construir el plan de contenidos para una asignatura. Ensaye con el siguiente prompt para alguna de sus asignaturas:
 ```
 Necesito diseñar los contenidos y evaluaciones de una asignatura universitaria. La asignatura es
 [Nombre de la Asignatura], tiene una duración de [Numero Semanas] semanas y el tema principal es [Tema Principal]. Quiero que incluyas los objetivos del curso, la estructura semanal con los temas, contenidos y evaluaciones correspondientes, además de los recursos y la evaluación final.
