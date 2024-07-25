@@ -20,7 +20,7 @@ temas, contenidos y evaluaciones correspondientes, además de los recursos y la 
 
 Ahora le puede indicar que faltó indicar los conocimientos previos o prerequisitos que requiere la asignatura (esta información no la incluyó la IA porque no estaba en el contexto). 
 
-## Generacion de tablas de saberes
+## 3. Generacion de tablas de saberes
 En el formato de microcurriculo se debe diligenciar la tabla de saberes. Por medio de la IAG podemos generar un prompt para saber como debemos consultarla con el fin crear una tabla de contenidos, así:
 
 ```
@@ -28,14 +28,23 @@ Actua como un experto en diseño de Prompts. Necesito el diseño de un prompt pa
 de una asignatura universitaria. Me puedes indicar que información necesitas y cuales son las variables,
 por ejemplo: Nombre de la asignatura, contenidos, etc. La tabla de saberes se debe entregar en formato tabla.
 ```
-La IAG te entregara el prompt que puedes usar para generar la tabla de saberes. Rellena la información de la plantilla del prompt generada a partir de los datos de una asignatura que estes dictando.
-
+La IAG te entregara el prompt que puedes usar para generar la tabla de saberes, tambien puede que te muestre un ejemplo de apliación. Ahora, rellena la información de la plantilla del prompt generada a partir de los datos de una asignatura que estes dictando.
 
 ## Generacion de resultados de aprendizaje
+La idea es generar los resultados de aprendizaje sobre el mismo contexto donde se construyeron los contenidos y las tablas de saberes del curso. Un prompt sencillo para generar los resultados de aprendizaje usando una IAG puede ser el siguiente:
 
+```
+Actua como un experto en el diseño de resultados de aprendizaje de asignaturas universitarias. La asignatura
+es [Nombre de la asignatura], el tema principal es [Tema Principal].
+Quiero que incluyas los resultados de aprendizaje y la rubrica definida en una tabla. La rubrica debe estar
+definida sobre las siguientes categorías: Excelente (Nota 4.0-5.0), Bueno (Nota 3.5-3.9), Aceptable (Nota 3.0-3.4)    y Requiere mejoras (Nota<=2.9).
+```
 
+Para generar los resultados de aprendizaje sobre otra asignatura diferente, se debe incluir una oración donde se describan los contenidos y los objetivos de la asignatura. Ensayar generando los RA de otra asignatura para la cual la IAG no haya construido un contexto previo.
 
 ## Generacion de lecciones de tema
+
+
 ## Generacion de examenes y quizzes
 
 
