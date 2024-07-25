@@ -40,3 +40,12 @@ Actúa como un experto en diseño de prompts para chatgpt. Me puedes dar un ejem
 * [Leonard.ai](https://leonardo.ai/): Genera imagenes a partir de una palabras clave, posteriormente se genera magicamente un prompt detallado. [Guia de Prompts](https://leonadoai.com/ai-prompts/).
 * [Ideogram](https://ideogram.ai/login): IA para generar imagenes, [Guia Inicial](https://docs.ideogram.ai/using-ideogram/getting-started/the-basics-step-by-step).
 * [Designer](https://designer.microsoft.com/): Para usarlo de forma gratuita, abrir la pagina en un ventana incognita (con privacidad Ctrl+Mayus+N).
+
+# Text-to-Video
+* [OpenAI - Sora](https://openai.com/index/sora/)
+* [Pika](https://pikartai.com/labs/)
+* [Krea](https://www.krea.ai/home)
+* [LumaLabs](https://lumalabs.ai/dream-machine): 30 videos gratis.
+* [HeyGen](https://www.heygen.com/)
+* [Synthesia](https://www.synthesia.io/)
+* [Pictory](https://pictory.ai/)
