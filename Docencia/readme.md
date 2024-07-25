@@ -16,3 +16,4 @@
 * [Copilot Resources for Education](https://adoption.microsoft.com/es-es/copilot-resources-for-education/)
 # Cursos en Linea
 * [Google - AI for Educators](https://grow.google/ai-for-educators/)
+* [Microsoft - Enhance teaching and learning with Microsoft Copilot](https://learn.microsoft.com/en-us/training/modules/enhance-teaching-learning-bing-chat/)
