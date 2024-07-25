@@ -49,7 +49,14 @@ Bueno (Nota 3.5-3.9), Aceptable (Nota 3.0-3.4) y Requiere mejoras (Nota<=2.9).
 
 Para generar los resultados de aprendizaje sobre otra asignatura diferente, se debe incluir una oración donde se describan los contenidos y los objetivos de la asignatura. Ensayar generando los RA de otra asignatura para la cual la IAG no haya construido un contexto previo.
 
-## 5. Generacion de lecciones de un tema
+## 5. Generacion de lecciones de un tema y diapositiva
+Podemos generar el contenido para una diapositiva y tambien el prompt para generar la imagen que acompañe la explicacion. 
+
+```
+Actua como un experto en diseño de presentaciones. Escribe que texto debe llevar la diapositiva de
+[Tema de la diapositiva] juntos con el prompt que se necesita para generar la imagen explicativa de la diapositiva.
+```
+Tambien le podemos pedir a las IAG que nos generen todos los contenidos y todos los prompts de las imagenes para cada diapositiva. Puedes intentar construir este prompt y probarlo en ChatGPT.
 
 
 ## 6. Generacion de examenes y quizzes
