@@ -33,15 +33,8 @@ Actúa como un experto en diseño de prompts para chatgpt. Me puedes dar un ejem
 * [Xataka - 8 prompts para terminar tareas y ahorrar horas](https://www.xataka.com/robotica-e-ia/ocho-prompts-chatgpt-para-terminar-tareas-segundos-ahorrar-horas-trabajo)
 * [TextCortex - Prompt Engineering guide](https://textcortex.com/es/post/prompt-engineering-guide)
 
-# Text-to-text
-* [ChatGPT]()
-* [Gemini]()
-* [Claude]()
-* [Copilot]()
-* [LLama]()
-  
 # Text-to-Image
-* [Midjourney]()
-* [Leonard.ai]()
-* [Ideogram](https://docs.ideogram.ai/using-ideogram/getting-started/the-basics-step-by-step)
-* [Designer]()
+* [Midjourney](https://www.midjourney.com/home): La más conocida, requiere de Discord para hacer las consultas, y es de pago.
+* [Leonard.ai](https://leonardo.ai/): Genera imagenes a partir de una palabras clave, posteriormente se genera magicamente un prompt detallado. [Guia de Prompts](https://leonadoai.com/ai-prompts/).
+* [Ideogram](https://ideogram.ai/login): IA para generar imagenes, [Guia Inicial](https://docs.ideogram.ai/using-ideogram/getting-started/the-basics-step-by-step).
+* [Designer](https://designer.microsoft.com/): Para usarlo de forma gratuita, abrir la pagina en un ventana incognita (con privacidad Ctrl+Mayus+N).
