@@ -7,3 +7,4 @@
 * [Humata](https://app.humata.ai/): Resume artículos de investigación.
 * [Jenni](https://jenni.ai/): Herramienta para redactar artículos de investigación.
 * [Elicit](https://elicit.com/): A partir de palabras encuentra artículos y los resume, también genera columnas de análisis de los artículos.  
+* [Perplexity](https://www.perplexity.ai/): Similar a ChatGPT enfocado en la búsqueda de información.
