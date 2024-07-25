@@ -54,4 +54,9 @@ Actúa como un experto en diseño de prompts para chatgpt. Me puedes dar un ejem
 * [Durable](http://Durable.co)
 * [WebSim](https://websim.ai/)
 
+# Automatización de procesos
+* [Make](https://www.make.com/)
+* [Zapier](https://zapier.com/)
+* [Microsoft - Power Automate](https://www.microsoft.com/es-es/power-platform/products/power-automate)
+
 
