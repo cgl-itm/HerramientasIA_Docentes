@@ -35,7 +35,7 @@ contenidos, etc. La tabla de saberes se debe entregar en formato tabla.
 
 La IAG te entregara el Prompt que puedes usar para generar la tabla de saberes, también puede que te muestre un ejemplo de aplicación. Ahora, rellena la información de la plantilla del Prompt generada a partir de los datos de una asignatura que estés dictando.
 
-## 4. Generación de resultados de aprendizaje
+## 4. Generación de resultados de aprendizaje (RA)
 La idea es generar los resultados de aprendizaje sobre el mismo contexto donde se construyeron los contenidos y las tablas de saberes del curso. Un Prompt sencillo para generar los resultados de aprendizaje usando una IAG puede ser el siguiente:
 
 ```
