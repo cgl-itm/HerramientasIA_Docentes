@@ -1,6 +1,5 @@
-# Docencia con IAG
+# Docencia con Inteligencia Artificial Generativa (IAG)
 En esta sección encontrara material específico para el uso de la Inteligencia Artificial Generativa en actividades de Educación superior.
-
 
 ## 1. Consultar a la IAG como te puede ayudar
 Como primera actividad se propone introducir el siguiente Prompt al modelo de lenguaje grande ChatGPT:
