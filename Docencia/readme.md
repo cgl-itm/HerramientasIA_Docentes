@@ -1,4 +1,10 @@
 # Doncencia con IA
+En esta seccion encontrara material espeficio para la labor docente.
+Como primera actividad se propone introducir el siguiente prompt al modelo de lenguaje grande ChatGPT:
+'''
+Mi nombre es [Nombre], soy Ingeniero/a [Profesion] con estudios en [Posgrados]. Soy docente de las [Asignaturas] en el programa de [Programa]. Que tareas puedes realizar para ayudarme en mi labor docente?
+'''
+
 ## Generacion de contenido de una asignatura
 ## Generacion de resultados de aprendizaje
 ## Generacion de lecciones de tema
