@@ -64,7 +64,7 @@ Un uso muy particular para Claude es la gneneracion de codigo en Python para hac
 
 ### Ejemplos en linea de generación de Apps
 * [8 Apps con Claude 3.5 Sonnet](https://alejavirivera.com/8-apps-con-claude-3-5-sonnet/): Ejemplos de generacón de paginas web a partir de la IAG Claude 3.5 Sonnet (al parece el ejemplo del panel interactivo no funciona).
-* []
+
 
 # Recursos en linea
 * [ChatGPT - Teaching with AI](https://openai.com/index/teaching-with-ai/)
