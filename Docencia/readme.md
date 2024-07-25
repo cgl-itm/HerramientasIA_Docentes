@@ -68,7 +68,7 @@ En office 365 podemos hacer uso de extensiones con IAG las cuales pueden ayudar 
 Aplicaciones como [ChatPDF](https://www.chatpdf.com/) permiten subir un archivo PDF y por medio de la IAG podemos realizar preguntas sobre el documento. Hoy en dia ChatGPT 4o y Claude 3.5 Sonnet permiten hacer algo similar.
 
 ## 7. Generación de aplicaciones
-Un uso muy particular para Claude es la gneneracion de codigo en Python para hacer GUIs, o para generar codigo HTML, CSS y JS para paginas web. 
+Un uso muy particular para Claude es la gneneración de código en Python para hacer GUIs, o para generar codigo HTML, CSS y JS para paginas web. 
 
 ### Ejemplos en linea de generación de Apps
 * [8 Apps con Claude 3.5 Sonnet](https://alejavirivera.com/8-apps-con-claude-3-5-sonnet/): Ejemplos de generacón de paginas web a partir de la IAG Claude 3.5 Sonnet (al parece el ejemplo del panel interactivo no funciona).
