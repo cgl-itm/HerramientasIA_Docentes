@@ -3,8 +3,9 @@
 [Guia de OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
 ## Técnicas de Prompting
 * Establecer un rol
-* Aportar contexto: El contexto es muy importante, ya que permite obtener respuestas más especificas.
-  | Tipo de Prompt | Prompt |
+* Aportar contexto: El contexto es muy importante, ya que permite obtener respuestas más especificas. <br>
+
+| Tipo de Prompt | Prompt |
 |----------------|--------|
 | Zero Shot      | Describe las preferencias de vestimenta de una persona. |
 | One Shot       | Describe las preferencias de vestimenta de una persona que prefiere ropa casual y cómoda. |
