@@ -77,6 +77,7 @@ Un uso muy particular para Claude es la gneneracion de codigo en Python para hac
 * [ChatGPT - Teaching with AI](https://openai.com/index/teaching-with-ai/)
 * [ClassPoint - 11 of the Best AI Tools for Teachers](https://www.youtube.com/watch?v=KG4_CYbVpTo)
 * [Copilot Resources for Education](https://adoption.microsoft.com/es-es/copilot-resources-for-education/)
+* [Ejemplo de Prompts para Docentes 2024](https://www.youtube.com/watch?v=Eu6D2TVRf98)
 
 # Cursos en Linea
 * [Google - AI for Educators](https://grow.google/ai-for-educators/)
