@@ -22,7 +22,7 @@ del curso, la estructura semanal con los temas, contenidos y evaluaciones corres
 además de los recursos y la evaluación final.
 ```
 
-Ahora le puede indicar que faltó indicar los conocimientos previos o prerrequisitos que requiere la asignatura (esta información no la incluyó la IA porque no estaba en el contexto). 
+Ahora le puede expresar a la IAG que faltó indicar los conocimientos previos o prerrequisitos que requiere la asignatura (esta información no la incluyó la IA porque no estaba en el contexto). 
 
 ## 3. Generación de tablas de saberes
 En el formato de microcurriculo se debe diligenciar la tabla de saberes. Por medio de la IAG podemos generar un Prompt para saber como debemos consultarla con el fin crear una tabla de contenidos, así:
