@@ -1,8 +1,9 @@
 # Doncencia con IA
-## Generacion de lecciones de tema
-## Generacion de examenes y quizzes
 ## Generacion de contenido de una asignatura
 ## Generacion de resultados de aprendizaje
+## Generacion de lecciones de tema
+## Generacion de examenes y quizzes
+
 
 ## Aprendizaje Diferenciado
 * Self-directed learning
