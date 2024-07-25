@@ -2,7 +2,6 @@
 # Prompt Engineering
 [Guia de OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
 ## Técnicas de Prompting
-* Establecer un rol
 * Aportar contexto: El contexto es muy importante, ya que permite obtener respuestas más especificas. <br>
 
 | Tipo de Prompt   | Ejemplo de Prompt                                                                                                                                           |
@@ -13,6 +12,11 @@
 
 En el prompt "Zero Shot", simplemente se pide una descripción sin proporcionar ningún ejemplo previo. En el "One Shot", se da un ejemplo para guiar la respuesta. En el "Multiple Shot", se proporcionan varios ejemplos para ofrecer una guía más completa y específica.
 
+* Establecer un rol: se le puede pedir a la IA que actúe con diferentes niveles de experiencia, desde basico hasta nivel experto en cualquier area. Probar el siguiente prompt con chatGPT:
+
+````
+Actúa como un experto en diseño de prompts para chatgpt. Me puedes dar un ejemplo de un prompt detallado donde el rol sea de un profesor de matemáticas, que tenga contexto, objetivo y formato de salida. 
+````  
 
 ## Enlaces
 * [Xataka - 8 prompts para terminar tareas y ahorrar horas](https://www.xataka.com/robotica-e-ia/ocho-prompts-chatgpt-para-terminar-tareas-segundos-ahorrar-horas-trabajo)
