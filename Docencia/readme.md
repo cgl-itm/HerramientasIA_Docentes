@@ -1,16 +1,19 @@
-# Doncencia con IAG
-En esta seccion encontrara material especifico para el uso de la Inteligencia Artificial Generativa en actividades de Educación superior.
+# Docencia con IAG
+En esta sección encontrara material específico para el uso de la Inteligencia Artificial Generativa en actividades de Educación superior.
 
 
 ## 1. Consultar a la IAG como te puede ayudar
-Como primera actividad se propone introducir el siguiente prompt al modelo de lenguaje grande ChatGPT:
+Como primera actividad se propone introducir el siguiente Prompt al modelo de lenguaje grande ChatGPT:
+
 ```
-Mi nombre es [Nombre], soy Ingeniero/a [Profesion] con estudios en [Posgrados].
+Mi nombre es [Nombre], soy Ingeniero/a [Profesión] con estudios en [Posgrados].
 Soy docente de las [Asignaturas] en el programa de [Programa].
 Que tareas puedes realizar para ayudarme en mi labor docente?
 ```
-## 2. Generacion de contenido de una asignatura
-La IAGs  nos puede ayudar a construir el plan de contenidos para una asignatura. Ensaye con el siguiente prompt para alguna de sus asignaturas:
+
+## 2. Generación de contenido de una asignatura
+La IAGs  nos puede ayudar a construir el plan de contenidos para una asignatura. Ensaye con el siguiente Prompt para alguna de sus asignaturas:
+
 ```
 Necesito diseñar los contenidos y evaluaciones de una asignatura universitaria.
 La asignatura es [Nombre de la Asignatura], tiene una duración de [Numero Semanas]
@@ -19,25 +22,25 @@ del curso, la estructura semanal con los temas, contenidos y evaluaciones corres
 además de los recursos y la evaluación final.
 ```
 
-Ahora le puede indicar que faltó indicar los conocimientos previos o prerequisitos que requiere la asignatura (esta información no la incluyó la IA porque no estaba en el contexto). 
+Ahora le puede indicar que faltó indicar los conocimientos previos o prerrequisitos que requiere la asignatura (esta información no la incluyó la IA porque no estaba en el contexto). 
 
-## 3. Generacion de tablas de saberes
-En el formato de microcurriculo se debe diligenciar la tabla de saberes. Por medio de la IAG podemos generar un prompt para saber como debemos consultarla con el fin crear una tabla de contenidos, así:
+## 3. Generación de tablas de saberes
+En el formato de microcurriculo se debe diligenciar la tabla de saberes. Por medio de la IAG podemos generar un Prompt para saber como debemos consultarla con el fin crear una tabla de contenidos, así:
 
 ```
-Actua como un experto en diseño de Prompts. Necesito el diseño de un prompt para
+Actúa como un experto en diseño de Prompts. Necesito el diseño de un Prompt para
 consultar la tabla de saberes de una asignatura universitaria. Me puedes indicar que
 información necesitas y cuales son las variables, por ejemplo: Nombre de la asignatura,
 contenidos, etc. La tabla de saberes se debe entregar en formato tabla.
 ```
 
-La IAG te entregara el prompt que puedes usar para generar la tabla de saberes, tambien puede que te muestre un ejemplo de apliación. Ahora, rellena la información de la plantilla del prompt generada a partir de los datos de una asignatura que estes dictando.
+La IAG te entregara el Prompt que puedes usar para generar la tabla de saberes, también puede que te muestre un ejemplo de aplicación. Ahora, rellena la información de la plantilla del Prompt generada a partir de los datos de una asignatura que estés dictando.
 
-## 4. Generacion de resultados de aprendizaje
-La idea es generar los resultados de aprendizaje sobre el mismo contexto donde se construyeron los contenidos y las tablas de saberes del curso. Un prompt sencillo para generar los resultados de aprendizaje usando una IAG puede ser el siguiente:
+## 4. Generación de resultados de aprendizaje
+La idea es generar los resultados de aprendizaje sobre el mismo contexto donde se construyeron los contenidos y las tablas de saberes del curso. Un Prompt sencillo para generar los resultados de aprendizaje usando una IAG puede ser el siguiente:
 
 ```
-Actua como un experto en el diseño de resultados de aprendizaje de asignaturas universitarias.
+Actúa como un experto en el diseño de resultados de aprendizaje de asignaturas universitarias.
 La asignatura es [Nombre de la asignatura], el tema principal es [Tema Principal].
 Quiero que incluyas los resultados de aprendizaje y la rubrica definida en una tabla.
 La rubrica debe estar definida sobre las siguientes categorías: Excelente (Nota 4.0-5.0),
