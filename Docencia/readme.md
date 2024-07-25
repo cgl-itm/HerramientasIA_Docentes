@@ -9,10 +9,14 @@ Mi nombre es [Nombre], soy Ingeniero/a [Profesion] con estudios en [Posgrados].
 Soy docente de las [Asignaturas] en el programa de [Programa].
 Que tareas puedes realizar para ayudarme en mi labor docente?
 ```
-## Generacion de contenido de una asignatura
+## 2. Generacion de contenido de una asignatura
+La IAG nos puede ayudar a construir el plan de contenidos para una asignatura. Ensaye con el siguiente prompt para alguna de sus asignaturas:
 ```
-Necesito diseñar los contenidos y evaluaciones de una asignatura universitaria. La asignatura es 'Inteligencia Artificial', tiene una duración de 15 semanas y el tema principal es 'Aprendizaje Automático'. Quiero que incluyas los objetivos del curso, la estructura semanal con los temas, contenidos y evaluaciones correspondientes, además de los recursos y la evaluación final.
+Necesito diseñar los contenidos y evaluaciones de una asignatura universitaria. La asignatura es
+[Nombre de la Asignatura], tiene una duración de [Numero Semanas] semanas y el tema principal es [Tema Principal]. Quiero que incluyas los objetivos del curso, la estructura semanal con los temas, contenidos y evaluaciones correspondientes, además de los recursos y la evaluación final.
 ```
+
+Ahora le puede indicar que falto indicar los conocimientos previos o prerequisitos que requiere la asignatura (esta informacion no la incluyo la IA porque no estaba en el contexto).
 
 ## Generacion de resultados de aprendizaje
 ## Generacion de lecciones de tema
