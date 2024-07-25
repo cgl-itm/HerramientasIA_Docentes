@@ -84,3 +84,5 @@ Un uso muy particular para Claude es la gneneración de código en Python para h
 * [Microsoft - Enhance teaching and learning with Microsoft Copilot](https://learn.microsoft.com/en-us/training/modules/enhance-teaching-learning-bing-chat/)
 
 # Material del Profe Fabio Suarez
+* [Construccion de Prompts efectivos](https://raw.githubusercontent.com/cgl-itm/HerramientasIA_Docentes/main/Docencia/Prompt%20Efectivos_revMCB.pdf)
+* [Como diseñar un curso](https://raw.githubusercontent.com/cgl-itm/HerramientasIA_Docentes/main/Docencia/plantilla-solucion-FabioSuarez.pdf)
