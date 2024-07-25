@@ -56,8 +56,7 @@ Podemos generar el contenido para una diapositiva y tambien el prompt para gener
 Actua como un experto en diseño de presentaciones. Escribe que texto debe llevar la diapositiva de
 [Tema de la diapositiva] juntos con el prompt que se necesita para generar la imagen explicativa de la diapositiva.
 ```
-Tambien le podemos pedir a las IAG que nos generen todos los contenidos y todos los prompts de las imagenes para cada diapositiva. Puedes intentar construir este prompt y probarlo en ChatGPT.
-
+Tambien le podemos pedir a las IAG que nos generen todos los contenidos y todos los prompts de las imagenes para cada diapositiva, y que el resultado sea entregado en una tabla. Puedes intentar construir este prompt y probarlo en ChatGPT. 
 
 ## 6. Generacion de examenes y quizzes
 
