@@ -22,7 +22,7 @@ del curso, la estructura semanal con los temas, contenidos y evaluaciones corres
 además de los recursos y la evaluación final.
 ```
 
-Ahora le puede expresar a la IAG que faltó indicar los conocimientos previos o prerrequisitos que requiere la asignatura (esta información no la incluyó la IA porque no estaba en el contexto). 
+Ahora le puede expresar a la IAG que faltó indicar los conocimientos previos o prerrequisitos que requiere la asignatura (esta información no la incluyó la IA porque no estaba en el contexto). Diseñe un nuevo prompt que incluya dicha información. 
 
 ## 3. Generación de tablas de saberes
 En el formato de microcurriculo se debe diligenciar la tabla de saberes. Por medio de la IAG podemos generar un Prompt para saber como debemos consultarla con el fin crear una tabla de contenidos, así:
@@ -49,14 +49,15 @@ Bueno (Nota 3.5-3.9), Aceptable (Nota 3.0-3.4) y Requiere mejoras (Nota<=2.9).
 
 Para generar los resultados de aprendizaje sobre otra asignatura diferente, se debe incluir una oración donde se describan los contenidos y los objetivos de la asignatura. Ensayar generando los RA de otra asignatura para la cual la IAG no haya construido un contexto previo.
 
-## 5. Generacion de lecciones de un tema y diapositiva
-Podemos generar el contenido para una diapositiva y tambien el prompt para generar la imagen que acompañe la explicacion. 
+## 5. Generación de lecciones de un tema y diapositiva
+Podemos generar el contenido para una diapositiva y también el prompt para generar la imagen que acompañe la explicación. 
 
 ```
-Actua como un experto en diseño de presentaciones. Escribe que texto debe llevar la diapositiva de
-[Tema de la diapositiva] juntos con el prompt que se necesita para generar la imagen explicativa de la diapositiva.
+Actúa como un experto en diseño de presentaciones. Escribe que texto debe llevar la diapositiva de
+[Tema de la diapositiva] junto con el prompt que se necesita para generar la imagen explicativa de la diapositiva.
 ```
-Tambien le podemos pedir a las IAG que nos generen todos los contenidos y todos los prompts de las imagenes para cada diapositiva, y que el resultado sea entregado en una tabla. Puedes intentar construir este prompt y probarlo en ChatGPT. 
+
+Tambien le podemos pedir a las IAG que nos generen todos los contenidos y todos los prompts de las imagenes para cada diapositiva, y que el resultado sea entregado en una tabla. Por favor construye este nuevo prompt y pruebalo en ChatGPT. 
 
 En office 365 podemos hacer uso de extensiones con IAG las cuales pueden ayudar a construir una presentacion inicial para un tema de la asignatura
 
