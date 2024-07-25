@@ -50,8 +50,8 @@ Actúa como un experto en diseño de prompts para chatgpt. Me puedes dar un ejem
 * [Synthesia](https://www.synthesia.io/)
 * [Pictory](https://pictory.ai/)
 
-  # Text-to-WebPage
-  * [Durable](http://Durable.co)
-  * [WebSim](https://websim.ai/)
+# Text-to-WebPage
+* [Durable](http://Durable.co)
+* [WebSim](https://websim.ai/)
 
 
