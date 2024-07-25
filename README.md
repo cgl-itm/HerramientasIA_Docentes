@@ -42,10 +42,16 @@ Actúa como un experto en diseño de prompts para chatgpt. Me puedes dar un ejem
 * [Designer](https://designer.microsoft.com/): Para usarlo de forma gratuita, abrir la pagina en un ventana incognita (con privacidad Ctrl+Mayus+N).
 
 # Text-to-Video
-* [OpenAI - Sora](https://openai.com/index/sora/)
+* [OpenAI - Sora](https://soorai.com/)
 * [Pika](https://pikartai.com/labs/)
 * [Krea](https://www.krea.ai/home)
 * [LumaLabs](https://lumalabs.ai/dream-machine): 30 videos gratis.
 * [HeyGen](https://www.heygen.com/)
 * [Synthesia](https://www.synthesia.io/)
 * [Pictory](https://pictory.ai/)
+
+  # Text-to-WebPage
+  * [Durable](http://Durable.co)
+  * [WebSim](https://websim.ai/)
+
+
