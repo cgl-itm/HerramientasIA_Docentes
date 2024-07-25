@@ -3,14 +3,13 @@
 [Guia de OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
 ## Técnicas de Prompting
 * Establecer un rol
-* Aportar contexto
-  * 0 Shot: Cuando solicitamos al modelo una respuesta sin darle un contexto apropiado. Puede conducir a respuestas de muy mala calidad. Por ejemplo:
-    ~~~
-    Dime 5 estrategias de enseñanza para un asignatura
-    ~~~
-    [Respuesta](https://chatgpt.com/share/a7638cd4-9258-47db-a45c-6acdbfb9a454)
-  * 1 Shot
-  * Few shot
+* Aportar contexto: El contexto es muy importante, ya que permite obtener respuestas más especificas.
+  | Tipo de Prompt | Prompt |
+|----------------|--------|
+| Zero Shot      | Describe las preferencias de vestimenta de una persona. |
+| One Shot       | Describe las preferencias de vestimenta de una persona que prefiere ropa casual y cómoda. |
+| Multiple Shot  | Describe las preferencias de vestimenta de una persona que prefiere ropa casual y cómoda. Incluye detalles sobre colores favoritos, tipo de prendas que usa en diferentes ocasiones (por ejemplo, para trabajar, salir con amigos, o hacer ejercicio), y cualquier accesorio que le guste llevar. |
+
 
 ## Enlaces
 * [Xataka - 8 prompts para terminar tareas y ahorrar horas](https://www.xataka.com/robotica-e-ia/ocho-prompts-chatgpt-para-terminar-tareas-segundos-ahorrar-horas-trabajo)
