@@ -1,6 +1,7 @@
 # HerramientasIA_Docentes
 
 # IAs Generativas mas conocidas
+Una comparativa de las IAs Generativas se puede encontrar en [artificialanalysis](https://artificialanalysis.ai/models/claude-35-sonnet).
 * [OpenAI - ChatGPT](https://chatgpt.com/): La ultima version es ChatGPT 4o (ommni), consultar la [pagina oficial](https://openai.com/index/hello-gpt-4o/) del modelo.
 * [Google - Gemini](https://gemini.google.com/app): Un modelo muy avanzado cuyas caracteristicas estann descritas [aqui](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/).
 * [Antorpic - Claude](https://claude.ai/): El modelo Claude 3.5 Sonnet ha mostrado mejor desempeño que ChatGPT 4o en varias tareas. Una vista al modelo se encuentra en este [enlace](https://beginswithai.com/claude-3-5-sonnet/).
