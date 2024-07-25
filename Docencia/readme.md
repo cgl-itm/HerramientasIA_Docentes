@@ -58,19 +58,14 @@ Actua como un experto en diseño de presentaciones. Escribe que texto debe lleva
 ```
 Tambien le podemos pedir a las IAG que nos generen todos los contenidos y todos los prompts de las imagenes para cada diapositiva, y que el resultado sea entregado en una tabla. Puedes intentar construir este prompt y probarlo en ChatGPT. 
 
-## 6. Generacion de examenes y quizzes
+## 6. Consulta información de un PDF
+Aplicaciones como [ChatPDF](https://www.chatpdf.com/) permiten subir un archivo PDF y por medio de la IAG podemos realizar preguntas sobre el documento. Hoy en dia ChatGPT 4o y Claude 3.5 Sonnet permiten hacer algo similar.
 
-
-## 7. Consulta información de un PDF
-
-
-## Generación de aplicaciones
+## 7. Generación de aplicaciones
 Un uso muy particular para Claude es la gneneracion de codigo en Python para hacer GUIs, o para generar codigo HTML, CSS y JS para paginas web. 
-
 
 ### Ejemplos en linea de generación de Apps
 * [8 Apps con Claude 3.5 Sonnet](https://alejavirivera.com/8-apps-con-claude-3-5-sonnet/): Ejemplos de generacón de paginas web a partir de la IAG Claude 3.5 Sonnet (al parece el ejemplo del panel interactivo no funciona).
-
 
 # Recursos en linea
 * [ChatGPT - Teaching with AI](https://openai.com/index/teaching-with-ai/)
