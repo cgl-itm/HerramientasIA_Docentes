@@ -2,7 +2,7 @@
 En esta seccion encontrara material espeficio para la labor docente.
 
 
-## 1. Consultar a la IAG como te puede ayudar en tu labor
+## 1. Consultar a la IAG como te puede ayudar
 Como primera actividad se propone introducir el siguiente prompt al modelo de lenguaje grande ChatGPT:
 ```
 Mi nombre es [Nombre], soy Ingeniero/a [Profesion] con estudios en [Posgrados].
