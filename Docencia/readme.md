@@ -12,10 +12,11 @@ Que tareas puedes realizar para ayudarme en mi labor docente?
 ## 2. Generacion de contenido de una asignatura
 La IAGs  nos puede ayudar a construir el plan de contenidos para una asignatura. Ensaye con el siguiente prompt para alguna de sus asignaturas:
 ```
-Necesito diseñar los contenidos y evaluaciones de una asignatura universitaria. La asignatura es
-[Nombre de la Asignatura], tiene una duración de [Numero Semanas] semanas y el tema principal
-es [Tema Principal]. Quiero que incluyas los objetivos del curso, la estructura semanal con los
-temas, contenidos y evaluaciones correspondientes, además de los recursos y la evaluación final.
+Necesito diseñar los contenidos y evaluaciones de una asignatura universitaria.
+La asignatura es [Nombre de la Asignatura], tiene una duración de [Numero Semanas]
+semanas y el tema principal es [Tema Principal]. Quiero que incluyas los objetivos
+del curso, la estructura semanal con los temas, contenidos y evaluaciones correspondientes,
+además de los recursos y la evaluación final.
 ```
 
 Ahora le puede indicar que faltó indicar los conocimientos previos o prerequisitos que requiere la asignatura (esta información no la incluyó la IA porque no estaba en el contexto). 
@@ -24,25 +25,28 @@ Ahora le puede indicar que faltó indicar los conocimientos previos o prerequisi
 En el formato de microcurriculo se debe diligenciar la tabla de saberes. Por medio de la IAG podemos generar un prompt para saber como debemos consultarla con el fin crear una tabla de contenidos, así:
 
 ```
-Actua como un experto en diseño de Prompts. Necesito el diseño de un prompt para consultar la tabla de saberes
-de una asignatura universitaria. Me puedes indicar que información necesitas y cuales son las variables,
-por ejemplo: Nombre de la asignatura, contenidos, etc. La tabla de saberes se debe entregar en formato tabla.
+Actua como un experto en diseño de Prompts. Necesito el diseño de un prompt para
+consultar la tabla de saberes de una asignatura universitaria. Me puedes indicar que
+información necesitas y cuales son las variables, por ejemplo: Nombre de la asignatura,
+contenidos, etc. La tabla de saberes se debe entregar en formato tabla.
 ```
+
 La IAG te entregara el prompt que puedes usar para generar la tabla de saberes, tambien puede que te muestre un ejemplo de apliación. Ahora, rellena la información de la plantilla del prompt generada a partir de los datos de una asignatura que estes dictando.
 
 ## 4. Generacion de resultados de aprendizaje
 La idea es generar los resultados de aprendizaje sobre el mismo contexto donde se construyeron los contenidos y las tablas de saberes del curso. Un prompt sencillo para generar los resultados de aprendizaje usando una IAG puede ser el siguiente:
 
 ```
-Actua como un experto en el diseño de resultados de aprendizaje de asignaturas universitarias. La asignatura
-es [Nombre de la asignatura], el tema principal es [Tema Principal].
-Quiero que incluyas los resultados de aprendizaje y la rubrica definida en una tabla. La rubrica debe estar
-definida sobre las siguientes categorías: Excelente (Nota 4.0-5.0), Bueno (Nota 3.5-3.9), Aceptable (Nota 3.0-3.4)    y Requiere mejoras (Nota<=2.9).
+Actua como un experto en el diseño de resultados de aprendizaje de asignaturas universitarias.
+La asignatura es [Nombre de la asignatura], el tema principal es [Tema Principal].
+Quiero que incluyas los resultados de aprendizaje y la rubrica definida en una tabla.
+La rubrica debe estar definida sobre las siguientes categorías: Excelente (Nota 4.0-5.0),
+Bueno (Nota 3.5-3.9), Aceptable (Nota 3.0-3.4) y Requiere mejoras (Nota<=2.9).
 ```
 
 Para generar los resultados de aprendizaje sobre otra asignatura diferente, se debe incluir una oración donde se describan los contenidos y los objetivos de la asignatura. Ensayar generando los RA de otra asignatura para la cual la IAG no haya construido un contexto previo.
 
-## 5. Generacion de lecciones de tema
+## 5. Generacion de lecciones de un tema
 
 
 ## 6. Generacion de examenes y quizzes
