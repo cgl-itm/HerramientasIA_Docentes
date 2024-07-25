@@ -58,6 +58,11 @@ Actua como un experto en diseño de presentaciones. Escribe que texto debe lleva
 ```
 Tambien le podemos pedir a las IAG que nos generen todos los contenidos y todos los prompts de las imagenes para cada diapositiva, y que el resultado sea entregado en una tabla. Puedes intentar construir este prompt y probarlo en ChatGPT. 
 
+En office 365 podemos hacer uso de extensiones con IAG las cuales pueden ayudar a construir una presentacion inicial para un tema de la asignatura
+
+<img src="https://raw.githubusercontent.com/cgl-itm/HerramientasIA_Docentes/main/assets/Office365_PowerPoint.png" alt="drawing" style="width:400px;"/> <br>
+
+
 ## 6. Consulta información de un PDF
 Aplicaciones como [ChatPDF](https://www.chatpdf.com/) permiten subir un archivo PDF y por medio de la IAG podemos realizar preguntas sobre el documento. Hoy en dia ChatGPT 4o y Claude 3.5 Sonnet permiten hacer algo similar.
 
