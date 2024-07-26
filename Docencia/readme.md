@@ -53,12 +53,14 @@ Podemos generar el contenido para una diapositiva y también el prompt para gene
 
 ```
 Actúa como un experto en diseño de presentaciones. Escribe que texto debe llevar la diapositiva de
-[Tema de la diapositiva] junto con el prompt que se necesita para generar la imagen explicativa de la diapositiva.
+[Tema de la diapositiva] junto con el Prompt que se necesita para generar la imagen explicativa de la diapositiva.
 ```
 
-Tambien le podemos pedir a las IAG que nos generen todos los contenidos y todos los prompts de las imagenes para cada diapositiva, y que el resultado sea entregado en una tabla. Por favor construye este nuevo prompt y pruebalo en ChatGPT. 
+También le podemos pedir a las IAG que nos generen todos los contenidos y todos los Prompts de las imágenes para cada diapositiva, y que el resultado sea entregado en una tabla. Por favor construye este nuevo prompt y pruebalo en ChatGPT. 
 
-En office 365 podemos hacer uso de extensiones con IAG las cuales pueden ayudar a construir una presentacion inicial para un tema de la asignatura
+Ir a la pagina de (Leonard.ai)[https://leonardo.ai/] o [Ideogram](https://ideogram.ai/) y generar las imágenes a partir de los Prompts dados por chatGPT para las diapositivas.
+
+En office 365 podemos hacer uso de extensiones con IAG las cuales pueden ayudar a construir una presentación inicial para un tema de la asignatura
 
 <img src="https://raw.githubusercontent.com/cgl-itm/HerramientasIA_Docentes/main/assets/Office365_PowerPoint.png" alt="drawing" style="width:400px;"/> <br>
 
@@ -72,7 +74,8 @@ Un uso muy particular para Claude es la gneneración de código en Python para h
 ### Ejemplos en línea de generación de Apps
 * [8 Apps con Claude 3.5 Sonnet](https://alejavirivera.com/8-apps-con-claude-3-5-sonnet/): Ejemplos de generacón de paginas web a partir de la IAG Claude 3.5 Sonnet (al parece el ejemplo del panel interactivo no funciona).
 * [15 INSANE Use Cases for NEW Claude Sonnet 3.5](https://www.youtube.com/watch?v=wBJZQt23J7M)
-
+* [Claude Artifacts with these 4 prompts](https://www.zeniteq.com/blog/try-claude-artifacts-with-these-5-cool-prompts)
+  
 # Recursos en línea
 * [ChatGPT - Teaching with AI](https://openai.com/index/teaching-with-ai/)
 * [ClassPoint - 11 of the Best AI Tools for Teachers](https://www.youtube.com/watch?v=KG4_CYbVpTo)
