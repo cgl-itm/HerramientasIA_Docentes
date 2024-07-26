@@ -71,7 +71,7 @@ Aplicaciones como [ChatPDF](https://www.chatpdf.com/) permiten subir un archivo 
 ## 7. Generación de aplicaciones
 Un uso muy particular para Claude es la gneneración de código en Python para hacer GUIs, o para generar codigo HTML, CSS y JS para paginas web. 
 
-### Ejemplos en línea de generación de Apps
+### Ejemplos en línea de generación de Apps con Claude
 * [8 Apps con Claude 3.5 Sonnet](https://alejavirivera.com/8-apps-con-claude-3-5-sonnet/): Ejemplos de generacón de paginas web a partir de la IAG Claude 3.5 Sonnet (al parece el ejemplo del panel interactivo no funciona).
 * [15 INSANE Use Cases for NEW Claude Sonnet 3.5](https://www.youtube.com/watch?v=wBJZQt23J7M)
 * [Claude Artifacts with these 4 prompts](https://www.zeniteq.com/blog/try-claude-artifacts-with-these-5-cool-prompts)
