@@ -82,7 +82,7 @@ Un uso muy particular para Claude es la gneneración de código en Python para h
 * [Copilot Resources for Education](https://adoption.microsoft.com/es-es/copilot-resources-for-education/)
 * [Ejemplo de Prompts para Docentes 2024](https://www.youtube.com/watch?v=Eu6D2TVRf98)
 
-# Cursos en Linea
+# Cursos en línea
 * [Google - AI for Educators](https://grow.google/ai-for-educators/)
 * [Microsoft - Enhance teaching and learning with Microsoft Copilot](https://learn.microsoft.com/en-us/training/modules/enhance-teaching-learning-bing-chat/)
 
