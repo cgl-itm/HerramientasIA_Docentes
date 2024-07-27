@@ -7,7 +7,7 @@ En este repositorio puede encontrar información de aplicaciones web que pueden 
 Una comparativa de las IAs Generativas se puede encontrar en [artificialanalysis](https://artificialanalysis.ai/models/claude-35-sonnet).
 * [OpenAI - ChatGPT](https://chatgpt.com/): La última versión es ChatGPT 4o (omni), consultar la [página oficial](https://openai.com/index/hello-gpt-4o/) del modelo. También ejemplos de [vision](https://blog.roboflow.com/gpt-4o-vision-use-cases/) con ChatGPT 4o.
 * [Google - Gemini](https://gemini.google.com/app): Un modelo muy avanzado cuyas características estan descritas [aquí](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/).
-* [Antropic - Claude](https://claude.ai/): El modelo Claude 3.5 Sonnet ha mostrado mejor desempeño que ChatGPT 4o en varias tareas. Una vista al modelo se encuentra en este [enlace](https://beginswithai.com/claude-3-5-sonnet/).
+* [Anthropic - Claude](https://claude.ai/): El modelo Claude 3.5 Sonnet ha mostrado mejor desempeño que ChatGPT 4o en varias tareas. Una vista al modelo se encuentra en este [enlace](https://beginswithai.com/claude-3-5-sonnet/).
 * [Meta - Llama](https://www.meta.ai/): La última version LLama 3.1 es el modelo abierto más grande hasta el momento. Para más información consultar el [blog oficial](https://ai.meta.com/blog/meta-llama-3-1/).
 
 # Prompt Engineering
