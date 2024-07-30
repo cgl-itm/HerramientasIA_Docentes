@@ -11,4 +11,5 @@
 * [ResearchKick](https://www.researchkick.com/): Búsqueda de vacíos (gaps) en investigación, preguntas de investigación, y artículos relacionados con ese vacío. Usa otras IAs como LitMaps. Basado en créditos, de pago.
 * [GoatStack](https://goatstack.ai/): Herramienta para descubrir artículos que están en tendencia.
 * [Kahubi](https://kahubi.com/): Permite analizar datos, realizar resúmenes, encontrar vacíos de investigación, escribir partes de artículos de investigación. 
-* [PaperTalk](https://papertalk.io/): Herramienta para entender artículos de investigación. 
+* [PaperTalk](https://papertalk.io/): Herramienta para entender artículos de investigación.
+* [Stanford - Storm](https://storm.genie.stanford.edu/): [Video de ejemplo de uso](https://www.youtube.com/watch?v=6M7zLAJl1eg). Un proyecto de código abierto de una herramienta que nos permite buscar información con citas para un tema de investigación. 
