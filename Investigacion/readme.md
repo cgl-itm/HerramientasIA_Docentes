@@ -7,7 +7,7 @@
 * [Humata](https://app.humata.ai/): Resume artículos de investigación.
 * [Jenni](https://jenni.ai/): Herramienta para redactar artículos de investigación.
 * [Elicit](https://elicit.com/): A partir de palabras claves encuentra artículos y los resume, también genera columnas de análisis de los artículos.  
-* [Perplexity](https://www.perplexity.ai/): Similar a ChatGPT enfocado en la búsqueda de información.
+* [Perplexity](https://www.perplexity.ai/): Similar a ChatGPT enfocado en la búsqueda de información. [Ejemplos de aplicación](https://www.youtube.com/watch?v=koT7tL0j--M).
 * [ResearchKick](https://www.researchkick.com/): Búsqueda de vacíos (gaps) en investigación, preguntas de investigación, y artículos relacionados con ese vacío. Usa otras IAs como LitMaps. Basado en créditos, de pago.
 * [GoatStack](https://goatstack.ai/): Herramienta para descubrir artículos que están en tendencia.
 * [Kahubi](https://kahubi.com/): Permite analizar datos, realizar resúmenes, encontrar vacíos de investigación, escribir partes de artículos de investigación. 
