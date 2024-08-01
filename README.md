@@ -3,7 +3,7 @@
 # Herramientas de IA para Docentes Universitarios
 En este repositorio puede encontrar información de aplicaciones web que pueden ayudar en la productividad del quehacer docente.
 
-# IAs Generativas mas conocidas
+# IAs Generativas más conocidas
 Una comparativa de las IAs Generativas se puede encontrar en [artificialanalysis](https://artificialanalysis.ai/models/claude-35-sonnet).
 * [OpenAI - ChatGPT](https://chatgpt.com/): La última versión es ChatGPT 4o (omni), consultar la [página oficial](https://openai.com/index/hello-gpt-4o/) del modelo. También ejemplos de [vision](https://blog.roboflow.com/gpt-4o-vision-use-cases/) con ChatGPT 4o.
 * [Google - Gemini](https://gemini.google.com/app): Un modelo muy avanzado cuyas características estan descritas [aquí](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/).
