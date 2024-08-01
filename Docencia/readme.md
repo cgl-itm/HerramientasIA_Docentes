@@ -58,7 +58,7 @@ Actúa como un experto en diseño de presentaciones. Escribe que texto debe llev
 
 También le podemos pedir a las IAG que nos generen todos los contenidos y todos los Prompts de las imágenes para cada diapositiva, y que el resultado sea entregado en una tabla. Por favor construye este nuevo prompt y pruebalo en ChatGPT. 
 
-Ir a la pagina de (Leonard.ai)[https://leonardo.ai/] o [Ideogram](https://ideogram.ai/) y generar las imágenes a partir de los Prompts dados por chatGPT para las diapositivas.
+Ir a la pagina de [Leonard.ai](ttps://leonardo.ai/) o [Ideogram](https://ideogram.ai/) y generar las imágenes a partir de los Prompts dados por chatGPT para las diapositivas.
 
 En office 365 podemos hacer uso de extensiones con IAG las cuales pueden ayudar a construir una presentación inicial para un tema de la asignatura
 
