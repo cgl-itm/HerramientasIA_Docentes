@@ -11,7 +11,7 @@ Que tareas puedes realizar para ayudarme en mi labor docente?
 ```
 
 ## 2. Generación de contenido de una asignatura
-La IAGs  nos puede ayudar a construir el plan de contenidos para una asignatura. Ensaye con el siguiente Prompt para alguna de sus asignaturas:
+La IAGs  nos puede ayudar a construir el plan de contenidos para una asignatura. Pruebe con el siguiente Prompt para alguna de sus asignaturas:
 
 ```
 Necesito diseñar los contenidos y evaluaciones de una asignatura universitaria.
