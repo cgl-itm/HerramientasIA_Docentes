@@ -54,6 +54,13 @@ Actúa como un experto en diseño de prompts para chatgpt. Me puedes dar un ejem
 * [Durable](http://Durable.co)
 * [WebSim](https://websim.ai/)
 
+# Herramientas Docencia
+* [QuizWiz](https://quizwiz.onescreensolutions.com/): Generar quizes.
+* [Gamma](https://gamma.app/): Generar presentaciones.
+* [Mapify](https://mapify.so/es): Generar mapas mentales.
+* [ChatPDF](https://www.chatpdf.com/): Resumir PDFs.
+
+
 # Automatización de procesos
 * [Make](https://www.make.com/)
 * [Zapier](https://zapier.com/)
