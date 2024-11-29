@@ -61,8 +61,10 @@ Actúa como un experto en diseño de prompts para chatgpt. Me puedes dar un ejem
 * [ChatPDF](https://www.chatpdf.com/): Resumir PDFs.
 
 
-# Automatización de procesos
+# Automatización de procesos (Workflow Automation)
 * [Make](https://www.make.com/)
+* [8N8](https://n8n.io/)
+* [LetNode](https://latenode.com/)
 * [Zapier](https://zapier.com/)
 * [Microsoft - Power Automate](https://www.microsoft.com/es-es/power-platform/products/power-automate)
 
