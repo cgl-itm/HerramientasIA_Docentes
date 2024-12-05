@@ -28,7 +28,9 @@ En el prompt "Zero Shot", simplemente se pide una descripción sin proporcionar 
 
 ````
 Actúa como un experto en diseño de prompts para chatgpt. Me puedes dar un ejemplo de un prompt detallado donde el rol sea de un profesor de matemáticas, que tenga contexto, objetivo y formato de salida. 
-````  
+````
+
+Para más información visitar [LearnPrompting](https://learnprompting.org/es/docs/introduction).
 
 ## Enlaces
 * [Ejemplos de Prompts para ChatGPT](https://ua-data7.github.io/introllms/chatgpt_prompts/)
