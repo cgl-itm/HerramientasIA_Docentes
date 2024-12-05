@@ -61,6 +61,8 @@ Actúa como un experto en diseño de prompts para chatgpt. Me puedes dar un ejem
 * [Mapify](https://mapify.so/es): Generar mapas mentales.
 * [ChatPDF](https://www.chatpdf.com/): Resumir PDFs.
 
+# Etica
+* [Ethics of ChatGPT in Education](https://www.sfmagazine.com/articles/2024/january/ethics-of-chatgpt-in-education)
 
 # Automatización de procesos (Workflow Automation)
 * [Make](https://www.make.com/)
