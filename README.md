@@ -37,6 +37,9 @@ Para más información visitar [LearnPrompting](https://learnprompting.org/es/do
 * [Xataka - 8 prompts para terminar tareas y ahorrar horas](https://www.xataka.com/robotica-e-ia/ocho-prompts-chatgpt-para-terminar-tareas-segundos-ahorrar-horas-trabajo)
 * [TextCortex - Prompt Engineering guide](https://textcortex.com/es/post/prompt-engineering-guide)
 
+# Multimodal
+* [NotebokLLM for Educatos](https://www.youtube.com/watch?v=w5ZcWmAltgQ)
+
 # Text-to-Image
 * [Midjourney](https://www.midjourney.com/home): La más conocida, requiere de Discord para hacer las consultas, y es de pago.
 * [Leonard.ai](https://leonardo.ai/): Genera imagenes a partir de una palabras clave, posteriormente se genera magicamente un prompt detallado. [Guia de Prompts](https://leonadoai.com/ai-prompts/).
