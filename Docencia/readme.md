@@ -85,6 +85,7 @@ Un uso muy particular para Claude es la gneneración de código en Python para h
 # Cursos en línea
 * [Google - AI for Educators](https://grow.google/ai-for-educators/)
 * [Microsoft - Enhance teaching and learning with Microsoft Copilot](https://learn.microsoft.com/en-us/training/modules/enhance-teaching-learning-bing-chat/)
+* [AI for Education](https://www.khanacademy.org/college-careers-more/ai-for-education)
 
 # Material del Profe Fabio Suarez
 * [Construccion de Prompts efectivos](https://raw.githubusercontent.com/cgl-itm/HerramientasIA_Docentes/main/Docencia/Prompt%20Efectivos_revMCB.pdf)
