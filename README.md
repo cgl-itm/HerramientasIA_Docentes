@@ -40,6 +40,12 @@ Para más información visitar [LearnPrompting](https://learnprompting.org/es/do
 # Multimodal
 * [NotebokLLM for Educatos](https://www.youtube.com/watch?v=w5ZcWmAltgQ)
 
+# Investigacion
+* [Rsearch Rabbit](https://www.researchrabbit.ai/) Descubre literatura relevantes y conexiones.
+* [Elicit](https://elicit.com/) Extrae y sintetiza hallazgos de articulos.
+* [Scite](https://scite.ai/) Evalua la confiabilidad de citas cientificas.
+* [Connected Papers](https://www.connectedpapers.com/) Explora relaciones entre investigaciones.
+
 # Text-to-Image
 * [Midjourney](https://www.midjourney.com/home): La más conocida, requiere de Discord para hacer las consultas, y es de pago.
 * [Leonard.ai](https://leonardo.ai/): Genera imagenes a partir de una palabras clave, posteriormente se genera magicamente un prompt detallado. [Guia de Prompts](https://leonadoai.com/ai-prompts/).
@@ -71,7 +77,7 @@ Para más información visitar [LearnPrompting](https://learnprompting.org/es/do
 
 # Automatización de procesos (Workflow Automation)
 * [Make](https://www.make.com/)
-* [8N8](https://n8n.io/)
+* [N8N](https://n8n.io/)
 * [LetNode](https://latenode.com/)
 * [Zapier](https://zapier.com/)
 * [Microsoft - Power Automate](https://www.microsoft.com/es-es/power-platform/products/power-automate)
