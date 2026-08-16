@@ -60,6 +60,7 @@ Para más información visitar [LearnPrompting](https://learnprompting.org/es/do
 * [HeyGen](https://www.heygen.com/)
 * [Synthesia](https://www.synthesia.io/)
 * [Pictory](https://pictory.ai/)
+* [videos.social](https://videos.social/?utm_source=cgl-itm-herramientasia-docentes&utm_medium=directory&utm_campaign=listing-wave-d): Convierte blogs, PDFs y prompts en videos faceless editables. Empieza gratis — 1 render incluido.
 
 # Text-to-WebPage
 * [Durable](http://Durable.co)
