@@ -60,7 +60,6 @@ Para más información visitar [LearnPrompting](https://learnprompting.org/es/do
 * [HeyGen](https://www.heygen.com/)
 * [Synthesia](https://www.synthesia.io/)
 * [Pictory](https://pictory.ai/)
-* [Videos.Social](https://videos.social/)
 
 # Text-to-WebPage
 * [Durable](http://Durable.co)
